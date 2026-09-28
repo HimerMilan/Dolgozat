@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportoloApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+355b411eb04f4b8d1f367c3592cc2428b53e023a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportoloApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportoloApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
